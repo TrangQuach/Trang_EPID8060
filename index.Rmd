@@ -1,0 +1,28 @@
+---
+title: "Trang Quach Introduction"
+date: "08/17/2019"
+output: html_document
+theme: journal
+---
+
+## Introduction
+
+I am Trang. I had undergrate program about Pharmacy in Vietnam. Then, I moved to US to pursue MPH program. Now, I am a second year PhD student in Epidemiology. I am interested in infectious disease epidemiology, particularly TB transmission. 
+
+I took SAS computing and management two years ago with Dr. Song. Also, I had STAT6360E which teach partially about R and SAS in this summer, because I want to prepare myself for this class. I had some classes about biostatistics such as BIOS8010, BIOS8020, BIOS8030, and BIOS8110. The objective of this class is also my objectives. All of my analysis experience is in SAS. Now, I want to learn analysis in R.
+
+## Fact about me
+Love hiking and swimming
+
+## My picture 
+I took this picture in this summer at Point Reyes, CA
+
+```{r pic, fig.align='center', echo=FALSE}
+knitr::include_graphics("./TrangPic.jpg")
+
+```
+
+## Linked website
+When I do not know how to analyse data, UCLA resources are really helpful because they are easy to understand. (Maybe, it is not cool)
+
+https://stats.idre.ucla.edu/other/mult-pkg/seminars/
